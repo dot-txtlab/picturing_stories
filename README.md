@@ -1,6 +1,6 @@
 ## Picturing Stories
 
-Picturing Stories represents a dataset of 27,889 illustrations drawn from 2,827 historical children’s books that were manually annotated using a citizen science initiative on Zooniverse involving over 7,000 volunteers.
+Picturing Stories represents a dataset of 27,889 illustrations drawn from 2,827 historical children’s books that were manually annotated using a citizen science initiative on Zooniverse involving 6,981 volunteers. The number of annotations totals 731,489.  Illustrations are drawn from books published between 1728 and 1932 and sourced from the Internet Archive’s Children’s Library: https://archive.org/details/iacl. Over 91% of books are English-language books, with the next most represented language being French at just under 5%. Based on an analysis of available regional information, we estimate that books originate equally from Britain and North America.
 
 Illustrations were annotated by 3+ annotators across the nine tasks listed below. We retain only annotations with responses from at least three annotators per illustration. Tied votes are preserved and labeled as partial_disagreement, while non-overlapping responses are retained and labeled disagreement. Each task column (T0–T7) includes a corresponding agreement column indicating the level of annotator consensus (majority, partial_disagreement, or disagreement).
 
