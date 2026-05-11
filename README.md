@@ -4,6 +4,8 @@ Picturing Stories represents a dataset of 27,889 illustrations drawn from 2,827 
 
 Illustrations were annotated by 3+ annotators across the nine tasks listed below. We retain only annotations with responses from at least three annotators per illustration. Tied votes are preserved and labeled as partial_disagreement, while non-overlapping responses are retained and labeled disagreement. Each task column (T0–T7) includes a corresponding agreement column indicating the level of annotator consensus (majority, partial_disagreement, or disagreement).
 
+Image files available upon request.
+
 Task
 / Category
 / Question
